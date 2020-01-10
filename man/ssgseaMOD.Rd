@@ -1,0 +1,11 @@
+\name{ssgseaMOD}
+\alias{ssgseaMOD}
+\title{
+ssgseaMOD
+}
+\description{
+ssgseaMOD
+}
+\usage{
+ssgseaMOD(x)
+}
